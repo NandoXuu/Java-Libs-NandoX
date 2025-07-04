@@ -14,12 +14,7 @@ pkg update -y && pkg install -y wget tar && wget https://raw.githubusercontent.c
 ---
 ## requirements
 ```
-pkg update -y
-pkg install git -y
-```
-## install/update
-```
-curl -s https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh | bash
+pkg update -y && pkg install -y wget tar git && wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh && bash install.sh
 ```
 ---
 
