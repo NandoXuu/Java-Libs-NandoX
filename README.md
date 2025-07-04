@@ -36,27 +36,31 @@ Optional Python script to test your Java install (if provided)
 
 1. Update Termux:
 
+
+```bash
 pkg update -y
-
-
+```
 2. Install needed packages:
 
+
+```bash
 pkg install -y wget tar
-
-
+```
 3. Download and execute the installer:
 
+
+```
 wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh
 bash install.sh
-
-
-
+```
 
 ---
 
 ✅ Usage Example
 
-Create a simple Java file:
+1. Create a simple Java file:
+
+
 
 cat > Hello.java << EOF
 public class Hello {
@@ -66,12 +70,16 @@ public class Hello {
 }
 EOF
 
-Compile and run:
+2. Compile and run:
+
+
 
 javac Hello.java
 java Hello
 
-Expected output:
+3. Expected output:
+
+
 
 Hello from Java on Termux!
 
@@ -101,14 +109,12 @@ python test.py
 
 ☕️ Why this project?
 
-Installing Java in Termux is often slow or buggy. This lightweight solution allows you to use Java 17 easily, with no configuration headaches, right from your Android terminal.
+Installing Java in Termux is often slow or buggy.
+This lightweight solution allows you to use Java 17 easily, with no configuration headaches, right from your Android terminal.
 
 
 ---
 
 🔚 Made with care
 
-by NandoX
-
-
-Install Java JRE 17 automatically on Termux (ARM64) with a single command. A lightweight, fast, and functional project created by NandoX to make running Java on Android easy.
+by NandoX ☕️
