@@ -41,9 +41,12 @@ _paste into termux_
 nano HelloTermux.java
 ```
 _Paste your code into the NANO menu that opens after running the code above ^_
->CNTRL + O
-> ENTER
-> CNTRL + X (exit nano)
+
+~CTRL + O
+>+ENTER
+~CTRL + X
+>EXIT
+
 
 _After following the steps above, paste this code into termux_
 ```
