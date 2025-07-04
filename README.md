@@ -42,8 +42,8 @@ nano HelloTermux.java
 ```
 _Paste your code into the NANO menu that opens after running the code above ^_
 >CNTRL + O
->> ENTER
->> CNTRL X
+> ENTER
+> CNTRL + X (exit nano)
 
 _After following the steps above, paste this code into termux_
 ```
