@@ -115,8 +115,5 @@ This lightweight solution allows you to use Java 17 easily, with no configuratio
 by NandoX ☕️
 
 _Hey bro, help us improve the project_
-Contact:
-
-mailto:nand00xustar1@gmail.com
-
+Contact: mailto:nand00xustar1@gmail.com
 
