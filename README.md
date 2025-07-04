@@ -34,9 +34,25 @@ Fast and minimal installation (via wget and tar)
 Fully offline-ready after the first setup
 
 Global access to java and javac via updated $PATH
+----------------------------------
+##How to run Java code?
+_paste into termux_
+```
+nano HelloTermux.java
+```
+_Paste your code into the NANO menu that opens after running the code above ^_
+>CNTRL + O
+>> ENTER
+>> CNTRL X
 
-
-
+_After following the steps above, paste this code into termux_
+```
+javac HelloTermux.java
+```
+##Execute
+```
+java HelloTermux
+```
 ---
 
 📄 Installation Steps
