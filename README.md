@@ -1,5 +1,7 @@
 # Java Libs - NandoX ☕️
+
 _~ (read it all!)_
+
 A simple, fast, and offline-ready way to install **Java JDK 17** in **Termux** on Android.
 
 ---
