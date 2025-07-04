@@ -113,3 +113,10 @@ This lightweight solution allows you to use Java 17 easily, with no configuratio
 🔚 Made with care
 
 by NandoX ☕️
+
+_Hey bro, help us improve the project_
+Contact:
+
+mailto:nand00xustar1@gmail.com?body=I%20wanted%20to%20report%20something%0A%3E
+
+
