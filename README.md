@@ -10,27 +10,28 @@ To install Java JDK 17 on Termux, just run the following command:
 
 ```bash
 pkg update -y && pkg install -y wget tar && wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh && bash install.sh
-```
+
+
 ---
-## requirements
-```
-pkg update -y && pkg install -y wget tar git && wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh && bash install.sh
-```
+
+📦 Requirements
+
+pkg update -y && pkg install -y wget tar git
+
+
 ---
 
 ⚙ How it works
 
 This repository provides:
 
-A clean and portable Java JDK 17 for Termux
+A clean and portable Java JDK 17 setup for Termux
 
 Fast and minimal installation (via wget and tar)
 
-No internet required after first setup (offline-ready)
+Fully offline-ready after the first setup
 
 Global access to java and javac via updated $PATH
-
-Optional Python script to test your Java install (if provided)
 
 
 
@@ -41,22 +42,22 @@ Optional Python script to test your Java install (if provided)
 1. Update Termux:
 
 
-```bash
+
 pkg update -y
-```
-2. Install needed packages:
+
+2. Install required packages:
 
 
-```bash
-pkg install -y wget tar
-```
-3. Download and execute the installer:
+
+pkg install -y wget tar git
+
+3. Download and run the installer:
 
 
-```
+
 wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh
 bash install.sh
-```
+
 
 ---
 
@@ -90,23 +91,11 @@ Hello from Java on Termux!
 
 ---
 
-🧪 Optional Python Tester
-
-If a test.py file is available in this repository, you can run it to check if Java was correctly installed:
-
-python test.py
-
-
----
-
 💻 System Compatibility
 
 ✅ Android (Termux)
-
 ✅ Linux-based shells with wget and tar
-
 ❌ Not designed for Windows or macOS
-
 
 
 ---
@@ -114,7 +103,7 @@ python test.py
 ☕️ Why this project?
 
 Installing Java in Termux is often slow or buggy.
-This lightweight solution allows you to use Java 17 easily, with no configuration headaches, right from your Android terminal.
+This lightweight solution allows you to use Java 17 easily, with no configuration headaches — right from your Android terminal.
 
 
 ---
