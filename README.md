@@ -42,9 +42,9 @@ nano HelloTermux.java
 ```
 _Paste your code into the NANO menu that opens after running the code above ^_
 
-##CTRL + O
-##ENTER
-##CTRL + X
+## CTRL + O
+## ENTER
+## CTRL + X
 
 
 _After following the steps above, paste this code into termux_
