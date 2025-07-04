@@ -10,7 +10,7 @@ To install Java JDK 17 on Termux, just run the following command:
 
 ```bash
 pkg update -y && pkg install -y wget tar && wget https://raw.githubusercontent.com/NandoXuu/Java-Libs-NandoX/main/install.sh && bash install.sh
-
+```
 
 ---
 
