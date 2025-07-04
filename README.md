@@ -18,9 +18,9 @@ pkg update -y
 pkg install git -y
 ```
 ## install/update
-
+```
 curl -s https://raw.githubusercontent.com/SeuUsuario/JavaLibsNX/main/install.sh | bash
-
+```
 ---
 
 ⚙ How it works
